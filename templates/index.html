@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Hello</h1>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="{{url_for('static', filename='js/code.js')}}"></script>    
+        <title>Homepage</title>
+    </head>
+    <body>
+        <div>
+            <h1>Prodotti</h1>
+            <div>
+                {% for prodotto in prodotti %}
+                <div>
+                    <div>
+                        <img src="{{ prodotto['Immagine'] }}">
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </body>
 </html>

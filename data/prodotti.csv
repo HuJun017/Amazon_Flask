@@ -1,8 +1,8 @@
 Nome,Prezzo,Quantità,Categoria,Immagine
-Pane,1.5,10,Alimenti,url_immagine1
-Latte,0.8,20,Alimenti,url_immagine2
-Frutta,2.0,15,Alimenti,url_immagine3
-Verdura,1.2,12,Alimenti,url_immagine4
+Pane,1.5,10,Alimenti,"https://www.google.com/search?q=pane&sca_esv=1408e98ab1991b60&sca_upv=1&rlz=1C1KNTJ_itIT1083IT1107&udm=2&source=iu&ictx=1&vet=1&fir=BTvh4MZ1ny-8gM%252CuxsTvs7UlObzlM%252C%252Fm%252F09728%253B2kcja6vhy56YUM%252CzE_IlT_VpsScyM%252C_%253BCsr262dGUkDIJM%252CaEesEocsgxrBYM%252C_%253Blyg-GO4KYlIkaM%252CJWUa2Dsd5NPhcM%252C_%253B26i_9_frfG3u2M%252Co8LyqJOrFhnV2M%252C_&usg=AI4_-kRe6It7P_n_9AEUFMjgNpnAYpaNXQ&sa=X&ved=2ahUKEwivhvioo4CGAxWrh_0HHWR9AXMQ_B16BAhVEAE#vhid=BTvh4MZ1ny-8gM&vssid=mosaic"
+Latte,0.8,20,Alimenti,/workspace/Amazon_Flask/data/img/latte.jpg
+Frutta,2.0,15,Alimenti,/workspace/Amazon_Flask/data/img/frutta.jpg
+Verdura,1.2,12,Alimenti,/workspace/Amazon_Flask/data/img/verdura.jpg
 Pasta,1.0,18,Alimenti,url_immagine5
 Riso,1.2,25,Alimenti,url_immagine6
 Carne,5.0,8,Alimenti,url_immagine7
