@@ -1,0 +1,13 @@
+.container {
+    flex-wrap: wrap;
+}
+h1 {
+    font-size: 50px;
+}
+.item {
+    flex: 1 1 50%;
+    margin: 10px; 
+}
+#informationPage {
+    display: none;
+}
