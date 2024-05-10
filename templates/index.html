@@ -13,18 +13,19 @@
             <div class="container">
                 {% for prodotto in prodotti %}
                 <div class="item">
-                    <img src="{{ prodotto['Immagine'] }}" width="200" onclick="getProdotto()">
+                    <img src="{{ prodotto['Immagine'] }}" width="200" onclick="getProdotto('{{prodotto.ID}}')">
                 </div>
                 {% endfor %}
             </div>      
         </div>
         <div id="informationPage">
             <div>
-                {% for prodotto in prodotti %}
-                <div class="item">
-                    <img src="{{ prodotto['Immagine'] }}" width="200" onclick="getProdotto()">
-                </div>
-                {% endfor %}
+                <p class="ID"></p>
+                <p class="Nome"></p>
+                <p class="Prezzo"></p>
+                <p class="Quantita"></p>
+                <p class="Categoria"></p>
+                <p class="Immagine"></p>
             </div>
         </div>
     </body>

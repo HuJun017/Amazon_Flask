@@ -1,8 +1,25 @@
-function getProdotto(){
-    //dichiarazioni delle varibili
+function getProdotto(ID){
+    //dichiarazioni delle varibili (le due pagine principali)
     let mainPage = document.getElementById('mainPage');
     let informationPage = document.getElementById('informationPage');
-    let prodotto = 
+
+
+    //variabili
+    let IDValue = document.querySelector('.ID');
+    let NomeValue = document.querySelector('.Nome');
+    let PrezzoValue = document.querySelector('.Prezzo');
+    let QuantitaValue = document.querySelector('.Quantita');
+    let CategoriaValue = document.querySelector('.Categoria');
+
+    //pacco di informazioni
+    console.log(ID);
+    /*{
+        ID: IDValue,
+        Nome: NomeValue,
+        Prezzo: PrezzoValue,
+        Quantita: QuantitaValue,
+        Categoria: CategoriaValue
+    }*/
 
     //fetch delle informazioni
     fetch('https://3245-hujun017-flasklogin-iwzllonrxe7.ws-eu111.gitpod.io/elenco', {
