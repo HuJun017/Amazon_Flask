@@ -3,30 +3,12 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="{{url_for('static', filename='js/code.js')}}"></script> 
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-        <title>Homepage</title>
+        <title>Test</title>
     </head>
     <body>
-        <div id="mainPage">
-            <h1>Prodotti</h1>
-            <div class="container">
-                {% for prodotto in prodotti %}
-                <div class="item">
-                    <img src="{{ prodotto['Immagine'] }}" width="200" onclick="getProdotto('{{prodotto.ID}}')">
-                </div>
-                {% endfor %}
-            </div>      
-        </div>
-        <div id="informationPage">
-            <div>
-                <p class="ID"></p>
-                <p class="Nome"></p>
-                <p class="Prezzo"></p>
-                <p class="Quantita"></p>
-                <p class="Categoria"></p>
-                <p class="Immagine"></p>
-            </div>
-        </div>
+        <h1>Homepage</h1>
+        {% for prodotto in prodotti %}
+        <p>{{ prodotto['Nome']}}</p>
+        {% end for %}
     </body>
 </html>
