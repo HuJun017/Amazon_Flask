@@ -1,25 +1,25 @@
 Nome,Prezzo,Quantità,Categoria,Immagine
-Pane,1.5,10,Alimenti,url_immagine1
-Latte,0.8,20,Alimenti,url_immagine2
-Frutta,2.0,15,Alimenti,url_immagine3
-Verdura,1.2,12,Alimenti,url_immagine4
-Pasta,1.0,18,Alimenti,url_immagine5
-Riso,1.2,25,Alimenti,url_immagine6
-Carne,5.0,8,Alimenti,url_immagine7
-Pesce,7.0,5,Alimenti,url_immagine8
-Uova,2.5,30,Alimenti,url_immagine9
-Formaggio,3.5,10,Alimenti,url_immagine10
-Yogurt,1.0,20,Alimenti,url_immagine11
-Miele,4.0,10,Alimenti,url_immagine12
-Biscotti,2.0,15,Alimenti,url_immagine13
-Succhi di frutta,1.5,20,Bevande,url_immagine14
-Acqua minerale,0.5,50,Bevande,url_immagine15
-Vino,8.0,7,Bevande,url_immagine16
-Birra,2.0,12,Bevande,url_immagine17
-Cioccolato,3.0,15,Dolci,url_immagine18
-Caffè,4.0,20,Bevande,url_immagine19
-Tè,2.5,25,Bevande,url_immagine20
-Bicicletta,200.0,3,Sport,url_immagine21
-Pallone da calcio,20.0,15,Sport,url_immagine22
-Tapis roulant,500.0,5,Sport,url_immagine23
-Maglietta,15.0,30,Abbigliamento,url_immagine24
+Pane,1.5,10,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Latte,0.8,20,Alimenti,"https://media-assets.lacucinaitaliana.it/photos/6351681dbc2c8a8e10d1f340/16:9/w_1920,c_limit/Latte.jpg"
+Frutta,2.0,15,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Verdura,1.2,12,Alimenti,"https://media-assets.lacucinaitaliana.it/photos/6351681dbc2c8a8e10d1f340/16:9/w_1920,c_limit/Latte.jpg"
+Pasta,1.0,18,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Riso,1.2,25,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Carne,5.0,8,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Pesce,7.0,5,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Uova,2.5,30,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Formaggio,3.5,10,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Yogurt,1.0,20,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Miele,4.0,10,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Biscotti,2.0,15,Alimenti,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Succhi di frutta,1.5,20,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Acqua minerale,0.5,50,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Vino,8.0,7,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Birra,2.0,12,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Cioccolato,3.0,15,Dolci,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Caffè,4.0,20,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Tè,2.5,25,Bevande,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Bicicletta,200.0,3,Sport,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Pallone da calcio,20.0,15,Sport,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Tapis roulant,500.0,5,Sport,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
+Maglietta,15.0,30,Abbigliamento,"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQwu9l5QEVRGPd9-hQ90jhpiGAMg1ycT46XWkXivXoCYaZ2RUm0Fz_Y0ZVxsJ50o3_K"
