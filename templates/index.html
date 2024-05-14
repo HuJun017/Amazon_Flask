@@ -14,9 +14,13 @@
             <img src="{{ prodotto['Immagine']}}" alt="" width="200" onclick="getProdotto('{{prodotto.Nome}}')">
             {% endfor %}            
         </div>
-        <br />
-        <div id="infoPage">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum aut neque velit et quis? Ea expedita, voluptas architecto, sequi, obcaecati natus aperiam totam cum vel vitae consequuntur magni modi nisi?</p>
+        <div id="infoPage" class="container">
+            <h1 class="Nome">Nome</h1>
+            <p class="Categoria">Categoria</p>
+            <p class="Prezzo">Prezzo</p>
+            <p class="Quantità">Quantità</p>
+            <img src="" id="Immagine" width="200"><br />
+            <button onclick="Back()" id="back">Back</button>            
         </div>
     </body>
 </html>
